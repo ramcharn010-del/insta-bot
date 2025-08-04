@@ -8,7 +8,7 @@ import kotlinx.coroutines.runBlocking
 @ExperimentalCoroutinesApi
 fun main() = runBlocking {
 
-    val username = Credentials.USERNAME
+    val username = Credentials.rhino.380852
     val password = Credentials.PASSWORD
 
     val bot = InstagramBot()
