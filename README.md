@@ -41,7 +41,7 @@ dependencies {
 Set your Instagram username and password in [Credentials.Kt](https://github.com/hadiyarajesh/insta-bot/blob/master/src/main/kotlin/Credentials.kt) file
 ```kotlin
 object Credentials {
-    const val USERNAME = "your_instagram_username"
+    const val USERNAME = "your_instagram_username" 
     const val PASSWORD = "your_instagram_password"
 }
 ```
